@@ -1,51 +1,13 @@
+joblib==1.3.1
+numpy==1.25.0
+packaging==23.1
+pandas==2.0.3
 plotly==5.15.0
+python-dateutil==2.8.2
+pytz==2023.3
 scikit-learn==1.3.0
-# streamlit==1.24.0
-# altair==5.0.1 # Installed as dependency for streamlit
-# attrs==23.1.0 # Installed as dependency for jsonschema
-# blinker==1.6.2 # Installed as dependency for streamlit
-# cachetools==5.3.1 # Installed as dependency for streamlit
-# certifi==2023.5.7 # Installed as dependency for requests
-# charset-normalizer==3.1.0 # Installed as dependency for requests
-# click==8.1.3 # Installed as dependency for streamlit
-# decorator==5.1.1 # Installed as dependency for validators
-# gitdb==4.0.10 # Installed as dependency for gitpython
-# gitpython==3.1.31 # Installed as dependency for streamlit
-# idna==3.4 # Installed as dependency for requests
-# importlib-metadata==6.7.0 # Installed as dependency for streamlit
-# jinja2==3.1.2 # Installed as dependency for altair, pydeck
-# joblib==1.3.1 # Installed as dependency for scikit-learn
-# jsonschema==4.17.3 # Installed as dependency for altair
-# markdown-it-py==3.0.0 # Installed as dependency for rich
-# markupsafe==2.1.3 # Installed as dependency for jinja2
-# mdurl==0.1.2 # Installed as dependency for markdown-it-py
-# numpy==1.25.0 # Installed as dependency for altair, pandas, pyarrow, pydeck, scikit-learn, scipy, streamlit
-# packaging==23.1 # Installed as dependency for plotly, streamlit
-# pandas==2.0.3 # Installed as dependency for altair, streamlit
-# pillow==9.5.0 # Installed as dependency for streamlit
-# protobuf==4.23.3 # Installed as dependency for streamlit
-# pyarrow==12.0.1 # Installed as dependency for streamlit
-# pydeck==0.8.1b0 # Installed as dependency for streamlit
-# pygments==2.15.1 # Installed as dependency for rich
-# pympler==1.0.1 # Installed as dependency for streamlit
-# pyrsistent==0.19.3 # Installed as dependency for jsonschema
-# python-dateutil==2.8.2 # Installed as dependency for pandas, streamlit
-# pytz==2023.3 # Installed as dependency for pandas
-# pytz-deprecation-shim==0.1.0.post0 # Installed as dependency for tzlocal
-# requests==2.31.0 # Installed as dependency for streamlit
-# rich==13.4.2 # Installed as dependency for streamlit
-# scipy==1.11.1 # Installed as dependency for scikit-learn
-# six==1.16.0 # Installed as dependency for python-dateutil
-# smmap==5.0.0 # Installed as dependency for gitdb
-# tenacity==8.2.2 # Installed as dependency for plotly, streamlit
-# threadpoolctl==3.1.0 # Installed as dependency for scikit-learn
-# toml==0.10.2 # Installed as dependency for streamlit
-# toolz==0.12.0 # Installed as dependency for altair
-# tornado==6.3.2 # Installed as dependency for streamlit
-# typing-extensions==4.7.1 # Installed as dependency for altair, streamlit
-# tzdata==2023.3 # Installed as dependency for pandas, pytz-deprecation-shim
-# tzlocal==4.3.1 # Installed as dependency for streamlit
-# urllib3==2.0.3 # Installed as dependency for requests
-# validators==0.20.0 # Installed as dependency for streamlit
-# watchdog==3.0.0 # Installed as dependency for streamlit
-# zipp==3.15.0 # Installed as dependency for importlib-metadata
+scipy==1.11.1
+six==1.16.0
+tenacity==8.2.2
+threadpoolctl==3.1.0
+tzdata==2023.3
